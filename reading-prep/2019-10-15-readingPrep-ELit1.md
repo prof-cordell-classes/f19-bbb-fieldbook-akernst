@@ -1,0 +1,3 @@
+1. Can quitting technology eventually undo how being a digital native codes the brain? 
+2. Could changing our perspective on digital media be all that's needed for it to allow our brains to preform reading comprehension the same way it does physical media?
+3. How does an interface effect a media's readability? For codex books, you have to turn pages, but on digital media you have to scroll or click. Does this have any effect on retention or readign speed, and how could it be improved assuming it continues progressing in the same direction?
