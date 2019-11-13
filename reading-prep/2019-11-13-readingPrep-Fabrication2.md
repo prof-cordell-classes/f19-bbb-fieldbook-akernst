@@ -1,0 +1,5 @@
+1. An interesting point made about technology remaining "visible" and how obscuring it causes a loss in understanding. Is there a measure for how the aptitude/understanding of a technology changes when it is hidden? (Based off of “Don’t let the computer disappear!" saying)
+
+2. What does "technological fluency in the domain of bibliography and textual studies" actually look like? How does this intersect with "reflective design?" Thinking about this together, how does technologoical fluency impact reflective design? My best guess would be that having technological fluency would allow the most reflection to occur based on everything that has already been, considering books, which would yield the best design. 
+
+3. Can 3D printing be looked at soley as a visualization technique? Can we get all the value of a 3d printing machnine through the use of other past technologies? And does this mean that 3d printing doesn't offer anything unique and solely provides increased speed in personalized object visualization?
